@@ -1,15 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Destini 🤔
 
-## Our Goal
+This project is based on the [stub project](https://github.com/londonappbrewery/destini-challenge-starting) from the Udemy course *The Complete 2020 Flutter Development Bootcamp with Dart* taught by Angela Yu. Check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
 
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
+## What you can do
+
+This game lets you *choose your own adventure* like Bandersnatch. It is another version of the [Quizzler](https://github.com/Stevemaster92/flutter-quizzler) app.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
